@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sean Finegan
-- 👀 I’m interested in javascript, react/next, vue/nuxt, python and web / mobile / full-stack development
+- 👀 I’m interested in typescript, react/next, vue/nuxt, python and web / mobile / full-stack development
 - 🌱 Lately I've been working with React, Prisma, Nest.js, Postgresql, Google Maps API's and AWS
 - 💞️ Currently learning systems architecture.
 - Porfolio Site: https://seanfinegan.dev
